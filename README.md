@@ -15,4 +15,4 @@
 [<img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />]
 [<img align="left" alt="Java" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" />]
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=hmMythreya?count_private=true&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=hmMythreya&count_private=true&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
