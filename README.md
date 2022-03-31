@@ -3,9 +3,10 @@
 ## I'm a Student learning Computer Science Engineering
 
 - 🔭 I study at PES Banglore
-- 🌱 I’m currently studying in my third semester
-- 🥅 2021 Goals: Learn java, contribute to more open source projects.
-- ⚡ I love coding
+- 🌱 I’m currently studying in my fourth semester
+- 🥅 2022 Goals: Contribute to open source projects, make a game, get a good internship
+- 🏋️ I love lifting weights
+- 👨‍💻 Coding since 8th grade
 
 ### Languages and Tools:
 
