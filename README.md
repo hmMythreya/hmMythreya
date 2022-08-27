@@ -3,7 +3,7 @@
 ## I'm a Student learning Computer Science Engineering
 
 - 🔭 I study at PES Banglore
-- 🌱 I’m currently studying in my fourth semester
+- 🌱 I’m currently studying in my fifth semester
 - 🥅 2022 Goals: Contribute to open source projects, make a game, get a good internship
 - 🏋️ I love lifting weights
 - 👨‍💻 Coding since 8th grade
