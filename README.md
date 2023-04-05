@@ -4,7 +4,3 @@
 
 - 🔭 I study at PES Banglore
 - 🌱 I’m currently studying in my sixth semester
-
-### Languages and Tools:
-
-
