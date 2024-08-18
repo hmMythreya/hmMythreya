@@ -1,6 +1,6 @@
 ### Hi there, I'm Mythreya 👋
 
-## I'm a Student learning Computer Science Engineering
+## I'm a Student learning Cybersecurity Engineering
 
-- 🔭 I study at PES Banglore
-- 🌱 I’m currently studying in my sixth semester
+- 🔭 I study at UMD - College park
+- 🌱 I’m currently in my first semester
